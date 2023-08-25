@@ -55,6 +55,7 @@ p{
 .selecao-de-personagens .personagens{
 	overflow-y: auto;
 	overflow-y: scroll;
+	overflow-x: auto;
 	scroll-margin-bottom: 100%;
     scrollbar-width:thin;
 	scrollbar-color: grey transparent;
